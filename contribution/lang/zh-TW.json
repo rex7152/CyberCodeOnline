@@ -128,7 +128,7 @@
 				"eng": "This task will take ${duration}"
 			},
 			"durationTooLong": {
-				"trans": "選擇的物品太多",
+				"trans": "選擇的物品太多了",
 				"eng": "Too many items selected"
 			}
 		},
