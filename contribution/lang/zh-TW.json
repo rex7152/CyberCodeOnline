@@ -5276,7 +5276,7 @@
 		"transmissionInterceptor": {
 			"band": {
 				"eng": "Band",
-				"trans": "頻帶"
+				"trans": "頻段"
 			},
 			"fail": {
 				"description": {
@@ -5285,12 +5285,12 @@
 				},
 				"title": {
 					"eng": "Signal Lost",
-					"trans": "訊號丟失"
+					"trans": "失去訊號"
 				}
 			},
 			"instructions": {
 				"eng": "You've detected an encrypted transmission. Intercept it by tapping when each frequency needle hits its target zone. All bands must be aligned before the signal disappears.",
-				"trans": "你已偵測到加密傳輸訊號。當每個頻率指針進入目標區域時，點擊進行攔截。所有頻帶都必須在訊號消失前完全對齊。"
+				"trans": "你已偵測到加密傳輸訊號。當每個頻率指針進入目標區域時，點擊進行攔截。所有頻段都必須在訊號消失前完全對齊。"
 			},
 			"locked": {
 				"eng": "LOCKED",
@@ -5298,7 +5298,7 @@
 			},
 			"progress": {
 				"eng": "Bands Intercepted",
-				"trans": "已截獲波段"
+				"trans": "已截獲頻段"
 			},
 			"retry": {
 				"eng": "Retry Interception",
